@@ -33,6 +33,12 @@ Then you can access the sample page by opening a browser via following URL;
 
 http://localhost:4200/ (Note that, if the project is open in Gitpod, the URL might differ).
 
+You can run playwright tests with the following command:
+
+```
+npm run test
+```
+
 ## Challenge
 
 #### First Part
